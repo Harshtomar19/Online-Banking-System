@@ -35,6 +35,9 @@ The Online Banking System is a GUI-based banking application developed using Cor
 
 ![image](https://github.com/user-attachments/assets/9f5fdb8a-cf36-48f0-956f-49c4ca60145a)
 
-![Screenshot (393)](https://github.com/user-attachments/assets/07001e1b-2c66-4de6-8f26-56f60e33f7c9)
+![400429269-67f2d9d6-a52c-4281-9739-fe08f70f1e77](https://github.com/user-attachments/assets/0fa51dc3-5d08-4ce1-9579-3712784b4f76)
 
-![Screenshot (394)](https://github.com/user-attachments/assets/67f2d9d6-a52c-4281-9739-fe08f70f1e77)
+![400429483-07001e1b-2c66-4de6-8f26-56f60e33f7c9](https://github.com/user-attachments/assets/6dc29e5c-1728-4bd5-86cf-3a27591a10d9)
+
+
+
